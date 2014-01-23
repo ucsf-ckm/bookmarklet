@@ -48,7 +48,7 @@ Possible causes:
 
 # Bookmarklet Code
 Tap and hold to select. If needed, adjust the selection, to include all before tapping **Copy**
-`javascript:void((function(){location.href='https://ucsf.idm.oclc.org/login?qurl=' +encodeURIComponent(location.href);})());`
+`javascript:void((function(){location.href='https://ucsf.idm.oclc.org/login?qurl='+encodeURIComponent(location.href);})());`
 
 
 
