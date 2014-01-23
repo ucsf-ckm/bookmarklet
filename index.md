@@ -20,13 +20,13 @@ A bookmarklet is just a bookmark amped up on javascript. To add one on your iPad
 
 # Part Two: Creating the Bookmark
 1. Open **Safari** browser and view [this page](.)
-2. Tap on the **share icon** ![share icon](share-icon.png)
-3. Tap **Bookmark** to save this page ![bookmark icon](bookmark-icon.png)
+2. Tap on the **share icon** ![share icon](img/share-icon.png)
+3. Tap **Bookmark** to save this page ![bookmark icon](img/bookmark-icon.png)
 4. Ensure that it will be saving to **Locations** > **Favorites** and then tap **Done**
 
 # Part Three: Editing the Bookmarklet
 1. Select and copy the bookmarklet code at bottom of this page
-2. Tap the **bookmarks icon** ![bookmark no text](bookmark-icon-notext.png) and tap **Edit**
+2. Tap the **bookmarks icon** ![bookmark no text](img/bookmark-icon-notext.png) and tap **Edit**
 3. Select the bookmark saved in Part Two, called **Reload via EZproxy**
 4. Tap the **address/URL field** and clear it by tapping the **x**
 5. Tap on the word **Address**, and tap **Paste** to add the javascript code
