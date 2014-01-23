@@ -1,8 +1,11 @@
+---
+title: Reload via EZproxy
+---
 # What is a Bookmarklet?
 A bookmarklet is just a bookmark amped up on javascript. To add one on your iPad or iPhone, you will need to complete three stages:
 
 1. Check Settings for Safari
-2. Create a **bookmark** 
+2. Create a **bookmark**
 3. Go back and edit to add javascript code to make it a **bookmarklet**
 
 *Mobile browsers require several taps and some copy-paste to install a bookmarklet, but if you take a few minutes to set it up, the mobile version is easy to use. *
@@ -22,7 +25,7 @@ A bookmarklet is just a bookmark amped up on javascript. To add one on your iPad
 
 # Part Three: Editing the Bookmarklet
 1. Select and copy the bookmarklet code at bottom of this page
-2. Tap the **bookmarks icon** ![bookmark no text](bookmark-icon-notext.png) and tap **Edit** 
+2. Tap the **bookmarks icon** ![bookmark no text](bookmark-icon-notext.png) and tap **Edit**
 3. Select the bookmark saved in Part Two, called **Reload via EZproxy**
 4. Tap the **address/URL field** and clear it by tapping the **x**
 5. Tap on the word **Address**, and tap **Paste** to add the javascript code
@@ -37,10 +40,10 @@ A bookmarklet is just a bookmark amped up on javascript. To add one on your iPad
 # Problems?
 Possible causes:
 
--	The Library does not subscribe. Check [holdings.](http://ucsf.worldcat.org/m/) 
+-	The Library does not subscribe. Check [holdings.](http://ucsf.worldcat.org/m/)
 -	The Library needs to adjust the EZproxy configuration. [Report](http://m.ucsf.edu/#/library/help) the problem
 -	Your MyAccess login is invalid. [Verify](https://myaccess.ucsf.edu/) your account
--	Need help with EZproxy? Contact [Library Support](http://m.ucsf.edu/#/library/help) 
+-	Need help with EZproxy? Contact [Library Support](http://m.ucsf.edu/#/library/help)
 
 # Bookmarklet Code
 Tap and hold to select. If needed, adjust the selection, to include all before tapping **Copy**
