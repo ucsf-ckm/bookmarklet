@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Reload via EZproxy
 ---
 # What is a Bookmarklet?
