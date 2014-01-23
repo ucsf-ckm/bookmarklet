@@ -6,13 +6,13 @@
   <title>{% if page.title %}{{ page.title }} - {% endif %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="css/bootstrap.min.css">
-  <style>
-    code { white-space: inherit;}
-  </style>
+  <style>textarea {width: 100%;}</style>
 </head>
 <body>
   <div class="container">
     {{ content }}
+
+    <textarea readonly onclick="this.setSelectionRange(0,999);">javascript:void((function(){location.href='https://ucsf.idm.oclc.org/login?qurl='+encodeURIComponent(location.href);})());</textarea>
   </div>
 </body>
 </html>
