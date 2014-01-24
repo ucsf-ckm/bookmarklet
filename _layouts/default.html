@@ -17,7 +17,7 @@
   <div class="container">
     {{ content }}
 
-    <textarea readonly onclick="this.setSelectionRange(0,999);">javascript:void((function(){location.href='https://ucsf.idm.oclc.org/login?qurl='+encodeURIComponent(location.href);})());</textarea>
+    <textarea readonly onclick="this.focus();this.select()">javascript:void((function(){location.href='https://ucsf.idm.oclc.org/login?qurl='+encodeURIComponent(location.href);})());</textarea>
   </div>
 </body>
 </html>
