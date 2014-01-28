@@ -2,13 +2,6 @@
 layout: default
 title: Reload via EZproxy
 ---
-## What is a Bookmarklet?
-A bookmarklet is just a bookmark amped up on JavaScript. To add one on your iPad or iPhone, you will need to complete three stages:
-
-1. Check Settings for Safari
-2. Create a **bookmark**
-3. Go back and edit to add JavaScript code to make it a **bookmarklet**
-
 *Mobile browsers require several taps and some copy-paste to install a bookmarklet, but if you take a few minutes to set it up, the mobile version is easy to use. *
 
 ## Part One: Setup
