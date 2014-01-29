@@ -11,10 +11,14 @@ body {
 background-color: #f4f4f4;
 font-family: Arial,sans-serif;
 color: #333333;
-font-size: .75em;
+}
+
+h1 {
+font-size: 24px;
+color: #000;
 }
 
 h2 {
-font-size: 1.35em;
+font-size: 20px;
 color: #000;
 }
