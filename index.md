@@ -35,6 +35,9 @@ title: Reload via EZproxy
 3. If you've clicked to view a full article and you are not granted access, tap the bookmarklet. You will be prompted to log in with your MyAccess credentials.
 4. Once authenticated as UCSF, you should get the full text.
 
+## Bookmarklet Code
+Tap and hold to select. If needed, adjust the selection, to include all before tapping **Copy**
+
 ## Problems?
 Possible causes:
 
@@ -42,6 +45,3 @@ Possible causes:
 -	The Library needs to adjust the EZproxy configuration. [Report](http://m.ucsf.edu/#/library/help) the problem
 -	Your MyAccess login is invalid. [Verify](https://myaccess.ucsf.edu/) your account
 -	Need help with EZproxy? Contact [Library Support](http://m.ucsf.edu/#/library/help)
-
-## Bookmarklet Code
-Tap and hold to select. If needed, adjust the selection, to include all before tapping **Copy**
