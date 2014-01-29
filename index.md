@@ -2,6 +2,9 @@
 layout: default
 title: Reload via EZproxy
 ---
+ [![UCSF Library](img/ucsf_header_basic.png)](http://www.library.ucsf.edu/)
+
+# EZproxy Bookmarklet for Mobile
 *Mobile browsers require several taps and some copy-paste to install a bookmarklet, but if you take a few minutes to set it up, the mobile version is easy to use. *
 
 ## Part One: Setup
@@ -14,12 +17,12 @@ title: Reload via EZproxy
 ## Part Two: Creating the Bookmark
 1. Open **Safari** browser and view this page (the one you're reading now)
 2. Tap on the **share icon** ![share icon](img/share-icon.png)
-3. Tap **Bookmark** to save this page ![bookmark icon](img/bookmark-icon.png)
+3. Tap **Bookmark** to save this page ![bookmark icon](img/bookmark-icon-box.png)
 4. Ensure that it will be saving to **Locations** > **Favorites** and then tap **Done**
 
 ## Part Three: Editing the Bookmarklet
 1. Select and copy the bookmarklet code at bottom of this page
-2. Tap the **bookmarks icon** ![bookmark no text](img/bookmark-icon-notext.png) and be sure you're viewing **Favorites**
+2. Tap the **bookmarks icon** ![bookmark no text](img/bookmark-icon.png) and be sure you're viewing **Favorites**
 3. Tap **Edit**
 4. Select the bookmark saved in Part Two, called **Reload via EZproxy**
 5. Tap the **address/URL field** and clear it by tapping the **x**
