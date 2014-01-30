@@ -41,9 +41,7 @@ Tap and hold to select. If needed, adjust the selection, to include all before t
 <textarea readonly="readonly">javascript:void((function(){location.href='https://ucsf.idm.oclc.org/login?qurl='+encodeURIComponent(location.href);})());</textarea>
 
 ## Problems?
-Possible causes:
-
 -	The Library does not subscribe. Check [holdings.](http://ucsf.worldcat.org/m/)
--	The Library needs to adjust the EZproxy configuration. [Report](http://m.ucsf.edu/#/library/help) the problem
--	Your MyAccess login is invalid. [Verify](https://myaccess.ucsf.edu/) your account
--	Need help with EZproxy? Contact [Library Support](http://m.ucsf.edu/#/library/help)
+-	The Library needs to adjust our EZproxy configuration. [Report](http://m.ucsf.edu/#/library/help) the problem.
+-	Your MyAccess login is invalid. [Verify](https://myaccess.ucsf.edu/) your account.
+-	Need help with EZproxy? Contact [Library Support.](http://m.ucsf.edu/#/library/help)
