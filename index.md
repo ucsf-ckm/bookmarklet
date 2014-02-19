@@ -38,7 +38,7 @@ title: Reload via EZproxy
 ## Bookmarklet Code
 Tap and hold to select. If needed, adjust the selection, to include all before tapping **Copy**
 
-<input disabled="disabled" class="form-control" value="javascript:void((function(){location.href='https://ucsf.idm.oclc.org/login?qurl='+encodeURIComponent(location.href);})());"></input>
+<pre>javascript:void((function(){location.href='https://ucsf.idm.oclc.org/login?qurl='+encodeURIComponent(location.href);})());"></pre>
 
 ## Problems?
 -	The Library does not subscribe. Check [holdings.](http://ucsf.worldcat.org/m/)
