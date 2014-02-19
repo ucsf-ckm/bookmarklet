@@ -2,8 +2,6 @@
 layout: default
 title: Reload via EZproxy
 ---
- [![UCSF Library](img/ucsf_header_basic.png)](http://www.library.ucsf.edu/)
-
 # EZproxy Bookmarklet for iOS
 *Mobile browsers require several taps and some copy-paste to install a bookmarklet, but if you take a few minutes to set it up, the mobile version is easy to use. *
 
