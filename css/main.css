@@ -5,7 +5,6 @@ color: #333333;
 }
 
 header {
-    text-align:  center;
     background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(99, 167, 208) 3%, rgb(49, 137, 191) 83%, rgb(60, 141, 190) 97%);
     padding: 1em;
     margin: 0.5em;
