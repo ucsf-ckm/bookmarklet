@@ -22,7 +22,7 @@ title: Reload via EZproxy
 ## Part Three: Editing the Bookmarklet
 
 1. Select and copy the bookmarklet code. If needed, adjust the selection, to include all before tapping **Copy**
-	<textarea readonly="readonly">javascript:void((function(){location.href='https://ucsf.idm.oclc.org/login?qurl='+encodeURIComponent(location.href);})());</textarea>
+    <pre>javascript:void((function(){location.href='https://ucsf.idm.oclc.org/login?qurl='+encodeURIComponent(location.href);})());</pre>
 2. Tap the **bookmarks icon** ![bookmark no text](img/bookmark-icon.png) and be sure you're viewing **Favorites**
 3. Tap **Edit**
 4. Select the bookmark saved in Part Two, called **Reload via EZproxy**
