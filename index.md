@@ -2,9 +2,6 @@
 layout: default
 title: Reload via EZproxy
 ---
-
-[![UCSF Library](img/ucsf_header_basic.png)](http://www.library.ucsf.edu/)
-
 # EZproxy Bookmarklet for iOS
 *Mobile browsers require several steps to install a bookmarklet, but if you set it up, the mobile version is easy to use.*
 
@@ -25,7 +22,7 @@ title: Reload via EZproxy
 ## Part Three: Editing the Bookmarklet
 
 1. Select and copy the bookmarklet code. If needed, adjust the selection, to include all before tapping **Copy**
-	<textarea readonly="readonly">javascript:void((function(){location.href='https://ucsf.idm.oclc.org/login?qurl='+encodeURIComponent(location.href);})());</textarea>
+    <pre>javascript:void((function(){location.href='https://ucsf.idm.oclc.org/login?qurl='+encodeURIComponent(location.href);})());</pre>
 2. Tap the **bookmarks icon** ![bookmark no text](img/bookmark-icon.png) and be sure you're viewing **Favorites**
 3. Tap **Edit**
 4. Select the bookmark saved in Part Two, called **Reload via EZproxy**
@@ -34,7 +31,7 @@ title: Reload via EZproxy
 7. Tap **Done** twice: once in the keyboard and once at lower corner of the Favorites box
 
 ## Using the Bookmarklet
-1. Clicked to view an article and not granted full access? Tap the **bookmarks icon** ![bookmark no text](img/bookmark-icon.png) > **Favorites** > **Reload via EZproxy**. 
+1. Clicked to view an article and not granted full access? Tap the **bookmarks icon** ![bookmark no text](img/bookmark-icon.png) > **Favorites** > **Reload via EZproxy**.
 2. You will be prompted to log in with your MyAccess credentials.
 3. Once authenticated as UCSF, you should get the full text.
 4. **NOTE**: Bookmarklet is only needed if you go *directly* to a journal website rather than through the UCSF Library website.

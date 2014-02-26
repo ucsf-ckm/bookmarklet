@@ -4,6 +4,13 @@ font-family: Arial,sans-serif;
 color: #333333;
 }
 
+header {
+    background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(99, 167, 208) 3%, rgb(49, 137, 191) 83%, rgb(60, 141, 190) 97%);
+    padding: 1em;
+    margin: 0.5em;
+    border-radius: 1em;
+}
+
 ol li {
 line-height: 2.5;
 }
