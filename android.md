@@ -14,7 +14,7 @@ title: Reload via EZproxy
 
 ## Part Two: Editing the Bookmarklet
 1. Select and copy the entire bookmarklet code.
-<textarea readonly="readonly">javascript:void((function(){location.href='https://ucsf.idm.oclc.org/login?qurl='+encodeURIComponent(location.href);})());</textarea>
+	<textarea readonly="readonly">javascript:void((function(){location.href='https://ucsf.idm.oclc.org/login?qurl='+encodeURIComponent(location.href);})());</textarea>
 2. Tap the **menu options icon** ![menu icon](img/android-menu-icon.png) and select **Bookmarks**. Be sure you're viewing **Mobile Bookmarks** or wherever you saved it
 3. Tap and hold to choose the **Reload via EZproxy** bookmark and then **Edit bookmark**
 4. Delete text from **address/URL field** 
@@ -23,7 +23,7 @@ title: Reload via EZproxy
 
 ## Using the Bookmarklet
 1. NOTE: Bookmarklet is only needed if you go *directly* to a journal -- *not* starting from a link on the UCSF Library website.
-2. If you've clicked to view a full article and do not access, start typing "Reload via EZproxy" into the address/URL above article.  Choose the suggestion with "javascript:void" below it to invoke the bookmarklet. 
+2. Clicked to view an article and not granted full access? Start typing "Reload via EZproxy" into the address/URL above article.  Choose the suggestion with "javascript:void" below it to trigger the bookmarklet. 
 3. You will be prompted to log in with your MyAccess credentials.
 4. Once authenticated as UCSF, you should get the full text.
 5. You will remain authenticated as UCSF until you close the browser.

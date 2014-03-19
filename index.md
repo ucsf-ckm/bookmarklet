@@ -31,10 +31,11 @@ title: Reload via EZproxy
 7. Tap **Done** twice: once in the keyboard and once at lower corner of the Favorites box
 
 ## Using the Bookmarklet
-1. Clicked to view an article and not granted full access? Tap the **bookmarks icon** ![bookmark no text](img/bookmark-icon.png) > **Favorites** > **Reload via EZproxy**.
+1. NOTE: Bookmarklet is only needed if you go *directly* to a journal -- *not* starting from a link on the UCSF Library website.
+2. Clicked to view an article and not granted full access? Tap the **bookmarks icon** ![bookmark no text](img/bookmark-icon.png) > **Favorites** > **Reload via EZproxy**.
 2. You will be prompted to log in with your MyAccess credentials.
 3. Once authenticated as UCSF, you should get the full text.
-4. **NOTE**: Bookmarklet is only needed if you go *directly* to a journal website rather than through the UCSF Library website.
+4. You will remain authenticated as UCSF until you close the browser.
 
 ## Problems?
 -	The Library does not subscribe. Check [holdings.](http://ucsf.worldcat.org/m/)
