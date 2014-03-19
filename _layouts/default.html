@@ -7,6 +7,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/main.css">
+  <!-- Redirect Android devices to the Android page. Crude, but effective. -->
+  <script>
+    if (window.location.pathname.indexOf("android") === -1) {
+      if (navigator.userAgent.toLowerCase().indexOf("android") !== -1) {
+        window.location = "/android.html";
+      }
+    }
+  </script>
 </head>
 <body>
   <header>
