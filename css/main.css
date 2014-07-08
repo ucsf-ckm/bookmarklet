@@ -1,28 +1,31 @@
 body {
-background-color: #f4f4f4;
-font-family: Arial,sans-serif;
-color: #333333;
+  background-color: #f4f4f4;
+  font-family: Arial,sans-serif;
+  color: #333333;
 }
 
 header {
-    background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(99, 167, 208) 3%, rgb(49, 137, 191) 83%, rgb(60, 141, 190) 97%);
-    padding: 1em;
-    margin: 0.5em;
-    border-radius: 1em;
+  /* fallback for IE8 and IE9 */
+  background-color: rgb(49, 137, 191);
+  /* awesome gradient for everyone else */
+  background-image: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(99, 167, 208) 3%, rgb(49, 137, 191) 83%, rgb(60, 141, 190) 97%);
+  padding: 1em;
+  margin: 0.5em;
+  border-radius: 1em;
 }
 
 ol li {
-line-height: 2.5;
+  line-height: 2.5;
 }
 
 h1 {
-font-size: 24px;
-color: #000;
+  font-size: 24px;
+  color: #000;
 }
 
 h2 {
-font-size: 20px;
-color: #000;
+  font-size: 20px;
+  color: #000;
 }
 
 textarea {
