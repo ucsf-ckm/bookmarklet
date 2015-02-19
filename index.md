@@ -15,15 +15,15 @@ title: Reload via EZproxy
 
 ## Part Two: Creating the Bookmark
 1. Open **Safari** browser and view [this page](http://bookmarklet.library.ucsf.edu/) (the one you're reading now)
-2. Tap on the **share icon** ![share icon](img/share-icon.png) found at top or bottom of your screen
-3. Tap **Bookmark** ![bookmark icon](img/bookmark-icon-box.png) found at top or bottom of your screen to save this page
+2. Tap on the **share icon** ![](img/share-icon.png) found at top or bottom of your screen
+3. Tap **Bookmark** ![](img/bookmark-icon-box.png) found at top or bottom of your screen to save this page
 4. Ensure save is to **Locations** > **Favorites** and then tap **Done**
 
 ## Part Three: Editing the Bookmarklet
 
 1. Select and copy the bookmarklet code. If needed, adjust the selection, to include all before tapping **Copy**
     <pre>javascript:void((function(){location.href='https://ucsf.idm.oclc.org/login?qurl='+encodeURIComponent(location.href);})());</pre>
-2. Tap the **bookmarks icon** ![bookmark no text](img/bookmark-icon.png) and be sure you're viewing **Favorites**
+2. Tap the **bookmarks icon** ![](img/bookmark-icon.png) and be sure you're viewing **Favorites**
 3. Tap **Edit**
 4. Select the bookmark saved in Part Two, called **Reload via EZproxy**
 5. Tap the **address/URL field** and clear it by tapping the **x**
@@ -32,7 +32,7 @@ title: Reload via EZproxy
 
 ## Using the Bookmarklet
 1. NOTE: Bookmarklet is only needed if you go *directly* to a journal -- *not* starting from a link on the UCSF Library website.
-2. Clicked to view an article and not granted full access? Tap the **bookmarks icon** ![bookmark no text](img/bookmark-icon.png) > **Favorites** > **Reload via EZproxy**.
+2. Clicked to view an article and not granted full access? Tap the **bookmarks icon** ![](img/bookmark-icon.png) > **Favorites** > **Reload via EZproxy**.
 2. You will be prompted to log in with your MyAccess credentials.
 3. Once authenticated as UCSF, you should get the full text.
 4. You will remain authenticated as UCSF until you close the browser.
