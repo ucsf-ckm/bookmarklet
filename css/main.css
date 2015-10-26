@@ -5,13 +5,10 @@ body {
 }
 
 header {
-  /* fallback for IE8 and IE9 */
-  background-color: #3189BF;
-  /* awesome gradient for everyone else */
-  background-image: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(99, 167, 208) 3%, rgb(49, 137, 191) 83%, rgb(60, 141, 190) 97%);
+  background-color: #052049;
   padding: 1em;
   margin: 0.5em;
-  border-radius: 1em;
+  border-radius: 0em;
 }
 
 ol li {
